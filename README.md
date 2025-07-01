@@ -37,9 +37,8 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Parcel Express** | Shipping system with live tracking, multi-role access & Firebase backend | Flutter, Firebase |
+| **Parcel Express** | Shipping system with live tracking, multi-role access & Firebase backend | Flutter, laravel |
 | **Thameen Auction App** | Real-time auctions, live video + chat using GetStream, IAM-secured APIs | Flutter, Firebase, GetStream |
-| **Spiffy.AI** | Building AI-powered mobile workflows with scalable Flutter UI | Flutter, AI APIs |
 | **Ride Glide** | Ride-sharing app with Google Maps, localization, and theming | Flutter, Firebase |
 | **Sakeny** | Dual-role housing app for students and landlords | Flutter, Firebase |
 | **RAKLI** | Salon management app for appointment and dashboard UI | Flutter, Firebase |
