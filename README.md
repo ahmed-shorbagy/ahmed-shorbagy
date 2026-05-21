@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 - 🎓 Graduated with a B.Eng. in Communications & Electronics – MTI University  
-- 👨‍💻 3+ years of hands-on experience in production-level Flutter apps  
+- 👨‍💻 5+ years of hands-on experience in production-level Flutter apps  
 - 🌍 Working remotely at **Spiffy.AI (Envive)** – a leading AI startup based in Seattle, USA  
 - 📦 Leading mobile frontend at **Parcel Express** – Oman-based logistics platform  
 - 🧠 Passionate about **AI tools**, **cloud-native development**, and **real-time systems**
